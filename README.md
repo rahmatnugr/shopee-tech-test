@@ -15,7 +15,7 @@ The company is starting an engineering blog with Wordpress, and you are tasked t
    2. Kubernetes Controller `kubectl` : [https://kubernetes.io/docs/tasks/tools/install-kubectl/](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 3. Clone this repository, and open it
    ```
-   git clone shopee-tech-test
+   git clone https://github.com/rahmatnugr/shopee-tech-test.git
    cd shopee-tech-test
    ```
 4. Run `login` command on script, for authentication initialization and project selection
